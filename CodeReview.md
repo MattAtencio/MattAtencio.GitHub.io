@@ -8,7 +8,7 @@ For my enhancements I chose to use a full stack application I built in my CS-465
 This application is a travel website for reviewing and booking trips. The application was 
 built using the MEAN stack and includes a frontend UI, an admin SPA site, a MongoDB Database, 
 and APIs to support data querying, data manipulation and user authentication. I completed 
-one or more enhancement in each category below to my artifiact to show a more holistic
+one or more enhancement in each category below to my artifact to show a more holistic
 understanding of the code. 
 
 **Category One: Software Engineering/Design**
