@@ -31,13 +31,12 @@ the artifact by creating more “object” data that can be called and loaded dy
 
 **Code Review**
 <div align="center">
-  <iframe 
-        width="560" 
-        height="315" 
-        src="https://www.youtube.com/watch?v=o99kSk9x4R4&feature=youtu.be" 
-        frameborder="0" 
-        allow="autoplay; encrypted-media" 
-        allowfullscreen="">
+  <iframe width="560" 
+          height="315" 
+          src="https://www.youtube.com/embed/o99kSk9x4R4" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
   </iframe>
 </div>
 
